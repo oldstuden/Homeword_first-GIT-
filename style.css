@@ -40,3 +40,10 @@
 .nav_list a:hover {
     color: #c1e050;
 }
+section {
+    width: 33%;
+    height: 450px;
+    display: inline-block;
+    text-align: center;
+    margin-top: 20px 15px;
+}
